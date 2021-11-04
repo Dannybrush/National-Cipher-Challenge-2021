@@ -50,3 +50,14 @@ https://pdf.sciencedirectassets.com/272528/1-s2.0-S0196885800X01297/1-s2.0-S0196
 
 
 CHARLES L DODGSON
+
+
+Friedrich Kasiski
+
+Auguste Kerckhoffs
+
+Edgar Allan Poe
+
+Gilbert Vernam
+
+Mata Hari
