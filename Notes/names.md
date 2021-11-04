@@ -4,11 +4,11 @@ Jodie
 
 Lovelace (ADA)
 
-**Nightingale (Florence) 
+**Nightingale (Florence)**
 
-Miss N
+**Miss N**
 
-FN (Florence N ?)**
+**FN (Florence N ?)**
 
 ABC
 
