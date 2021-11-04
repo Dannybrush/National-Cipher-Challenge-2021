@@ -4,11 +4,11 @@ Jodie
 
 Lovelace (ADA)
 
-**Nightingale (Florence)**
+  **Nightingale (Florence)**
 
-**Miss N**
+  **Miss N**
 
-**FN (Florence N ?)**
+  **FN (Florence N ?)**
 
 ABC
 
@@ -25,7 +25,7 @@ T - L, Young E
 Babbage (Charles - CH) ?
 
 
-**W - engineer, ciphers WILLIAM F FRIEDMAN**
+  **W - engineer, ciphers WILLIAM F FRIEDMAN**
 
 Caroline (OF BRUNSWICK?)
 
