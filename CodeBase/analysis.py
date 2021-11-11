@@ -3,9 +3,9 @@ from operator import itemgetter
 from pprint import pprint
 import matplotlib.pyplot as plt
 
-def load():
+def load(fn):
     # load the code
-    filename = "../Encrypted/Practice Mission Briefing 2A _ Don't give up - copy.md"
+    filename = fn # "../Encrypted/Mission Intercept 5B_Transatlantic.md"
     with open(filename) as f:
         #lines = f.readlines()
 
@@ -172,4 +172,5 @@ def _readfile(path):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    load('PyCharm')
+    load("../Encrypted/Mission Intercept 5B_Transatlantic.md")
+    load("../Encrypted/Mission Briefing 5A_ Derailed.md")
