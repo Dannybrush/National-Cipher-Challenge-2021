@@ -13,6 +13,7 @@ construct our secret headquarters under the more public face of the lighthouse i
 but if we are to pass on our discoveries, ambitions and plans to the next generation we will need to give them a more permanent home, so I hope we can agree together on the best way to proceed. Yours, CH
 
 **2b} The Profit Motive**
+
 My dearest M,
 Can it really be sixteen years since Caroline first proposed this venture? I cannot believe it and wish with all my heart that she could have seen her vision taking shape.
 Last Wednesday I took the opportunity you so kindly offered to see the progress with the foundation for myself. I was very encouraged by the industry on display, however I left with a concern that we may have miscalculated in our 
@@ -29,6 +30,7 @@ Ever yours,
 FN
 
 **3b} Prussia**
+
 My dear Miss N, While the outbreak of the Austro-Prussian war has dismayed many of the chattering classes, I have found utter delight in the fact that we were able to forecast this development. The fact that we were able to do so, 
 not days, or weeks, but months in advance is the proof that we have been seeking that our methods combined with the power of Professor B’s new device can deliver the knowledge we need to shape our destiny. The new statistical tools 
 that you have pioneered can, I believe, assist us in modelling further outbreaks of violence and unrest. If you will allow me to mix metaphors, while we will not always be able to predict the onset of disease, we can hope to 
@@ -43,6 +45,7 @@ Maxwell will be delivering the Bakerian Lecture and he is hoping to attend. I di
 deliberations on the efficiency of the device and any thoughts you might have on its development. Best wishes, ABC
 
 **4b} An Agatha Mystery** 
+
 With the growing threat of war, our activities have necessarily grown in scale and complexity and with that there is a growing risk that our mission will be uncovered by one of the parties to the conflict. 
 I have been able to drip feed intelligence to the Western Allies via their agent Harry, and as far as I can tell he remains ignorant of our true purpose. Nonetheless the risk remains high of one or both sides acquiring 
 the secret to atomic weapons early and we will need to act fast if we are to prevent this. The loss of the Hindenburg presented a fabulous opportunity and I used it to make sure that the Allies understood what the Nazi
@@ -52,6 +55,7 @@ to our advantage. AUGUSTA
 
 
 **5b} Transatlantic** 
+
 i think boss might suspect something they drafted the report on the lighthouse discovery over a month ago and have still not forwarded a summary to us here in the us i cant risk making enquiries through the usual channels but 
 i think we need to investigate i am disappointed that the trinity team left files in the basement when they shipped out but they did not have a lot of warning and at least they dont seem to have left anything current for harry 
 to find if they had he wouldnt have passed the investigation to the archaeologists it would have gone straight upstairs for action i am in two minds about it if anyone else was investigating i would say we should ignore it they 
