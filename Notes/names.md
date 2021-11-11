@@ -14,7 +14,8 @@ ABC
 
 M 
 
-CH
+CH - CHARLIE? 
+	Kohinoor Twins
 
 Agatha _ (Agatha Mary Clarissa Miller *Christie*)
 
@@ -32,7 +33,7 @@ Caroline (OF BRUNSWICK?)
 M A T E W CH FN 
 
 
-
+PHILBY & MACLEAN - Double agent placed in SOV
 
 Guesses BY ASSOCIATION
 
