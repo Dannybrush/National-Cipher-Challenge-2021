@@ -1,4 +1,4 @@
-**1a} Kicking my Heels**
+## **1a} Kicking my Heels**
 
 HARRY, I AM BORED, AND I AM REALLY NOT SURE WHY I HAVE BEEN EXILED TO THE ARCHAEOLOGISTS. DID I DO SOMETHING TO UPSET SOMEONE? I AM REALLY, REALLY HOPING THAT OUR OVERLORDS WILL FIND 
 SOMETHING A BIT MORE RELEVANT FOR ME TO TACKLE SOON. THE GROUP HERE IS GREAT, BUT IT FEELS LIKE THERE IS A DIMINISHING RETURN ON BREAKING WWII CIPHERS SEVENTY-SIX YEARS ON, 
@@ -13,7 +13,7 @@ TRAINEES CAN GET ACCESS TO CASE FILES AND SEND ME THEIR ATTEMPTS AT DECIPHERING.
 MAYBE THEY COULD LOOK AT THE BOSS CODEBREAKING GUIDE AS WELL IF THEY NEED TO BRUSH UP THEIR SKILLS. ALL THE BEST, JODIE
 
 
-**2a} Don't Give Up**
+## **2a} Don't Give Up**
 
 Jodie, you were not placed with the Archaeologists as a punishment; everyone takes their turn on that shift because we never know what might turn up in old documents. 
 When I ran the group, we found evidence of a Russian agent placed in the SDECE in the aftermath of the war who was acting as liaison with British and US intelligence. 
@@ -34,7 +34,7 @@ Good luck,
 Harry
 
 
-**3a} Double Trouble?**
+## **3a} Double Trouble?**
 
 Harry, thanks for your email, I forgot you had spent time here in the Archaeologists and it was good to be reminded that it can lead somewhere. 
 In this case I think the best we can hope for is that we will have a new bunch of recruits trained and ready to tackle more serious challenges, 
@@ -54,7 +54,7 @@ or if he will just introduce simple changes like blocking the ciphertext. I thin
 so I may be off grid for a couple of weeks. Let me know if you hear anything useful. All the best, Jodie.
 
 
-**4a} The Vault**
+## **4a} The Vault**
 
 Harry, I am back. I spent most of the last two weeks in The Vault trying to unpack some of the mystery surrounding the lighthouse conspiracy crew and I think I made some progress. 
 While I was away, the trainees tackled the letter from ABC, and they did a great job. They are shaping up well, I think we will be glad of their help as this case progresses. 
@@ -77,7 +77,7 @@ With hindsight, it is pretty obvious that actually it has just been encrypted on
 Once that had been untangled I found it pretty easy to break, and I am very worried about what I found. I think you need to take a look. Jodie
 
 
-**5a} Derailed** 
+## **5a} Derailed** 
 
 Jodie i can see why you are concerned but i find it hard to believe that agatha could have been part of a conspiracy she was a faithful colleague in all the time i worked with her and no one 
 ever suggested otherwise of course we ran the usual spot checks from time to time but nothing unusual was found having said that the message you found in the archive is really worrying my 
@@ -93,7 +93,7 @@ but one incriminating feature stands out even without a decrypt she used the ad 
 the file maybe this is all a big coincidence or a misunderstanding if not then we may have to tell london and washington and i am really not looking forward to that all the best harry
 
 
-**6a} Two Clues**
+## **6a} Two Clues**
 
 HARRY I AM SURE THIS MUST BE VERY HARD FOR YOU AS I KNOW THAT CHARLIE WAS A GOOD FRIEND BUT WE CANT LET THAT CLOUD OUR JUDGEMENT GIVEN THE CONTENT OF HER LETTER LAST WEEK WE HAVE TO ASSUME SHE IS INVOLVED SOMEHOW AND WORK ON THAT 
 BASIS HAVING SAID THAT CHARLIE DOESNT ACTUALLY SAY ANYTHING THAT PROVES THAT SHE IS A MEMBER OF THE LIGHTHOUSE CONSPIRACY OF COURSE SHE IS AN EXPERIENCED AGENT SO THAT MIGHT BE DELIBERATE BUT SHE DOES REFER TO THE TRINITY GROUP AND ITS

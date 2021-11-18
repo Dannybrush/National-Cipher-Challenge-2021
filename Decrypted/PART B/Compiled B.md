@@ -1,4 +1,4 @@
-**1b} Building the Foundation**
+## **1b} Building the Foundation**
 
 My dear M, thank you for letting me know about T's offer to join with us in the Great Matter. While I still have many ideas for how to prosecute our plan, my days are growing short, as are yours, and we will need to find others of a 
 similar mind who have the wit and imagination to carry it forward. Our ability to influence matters directly will continue to depend on the power of the devices we can fashion, and it will be clear to you that this will require new 
@@ -12,7 +12,7 @@ required to run your public experiments. I have little expertise in the design o
 construct our secret headquarters under the more public face of the lighthouse itself and its ancillary buildings. It may be that I have missed something important in my considerations, in which case please do point that out, 
 but if we are to pass on our discoveries, ambitions and plans to the next generation we will need to give them a more permanent home, so I hope we can agree together on the best way to proceed. Yours, CH
 
-**2b} The Profit Motive**
+## **2b} The Profit Motive**
 
 My dearest M,
 Can it really be sixteen years since Caroline first proposed this venture? I cannot believe it and wish with all my heart that she could have seen her vision taking shape.
@@ -29,7 +29,7 @@ not be too late to do so if we can mobilise our agents. There is much to play fo
 Ever yours,
 FN
 
-**3b} Prussia**
+## **3b} Prussia**
 
 My dear Miss N, While the outbreak of the Austro-Prussian war has dismayed many of the chattering classes, I have found utter delight in the fact that we were able to forecast this development. The fact that we were able to do so, 
 not days, or weeks, but months in advance is the proof that we have been seeking that our methods combined with the power of Professor B’s new device can deliver the knowledge we need to shape our destiny. The new statistical tools 
@@ -44,7 +44,7 @@ As our network expands the risk of leaks increases. He is working on a new and c
 Maxwell will be delivering the Bakerian Lecture and he is hoping to attend. I did wonder if M would be amenable to joining our conspiracy, but perhaps I should discuss that with the rest of the Curia. I look forward to hearing your 
 deliberations on the efficiency of the device and any thoughts you might have on its development. Best wishes, ABC
 
-**4b} An Agatha Mystery** 
+## **4b} An Agatha Mystery** 
 
 With the growing threat of war, our activities have necessarily grown in scale and complexity and with that there is a growing risk that our mission will be uncovered by one of the parties to the conflict. 
 I have been able to drip feed intelligence to the Western Allies via their agent Harry, and as far as I can tell he remains ignorant of our true purpose. Nonetheless the risk remains high of one or both sides acquiring 
@@ -54,7 +54,7 @@ the secret to atomic weapons early and we will need to act fast if we are to pre
 to our advantage. AUGUSTA
 
 
-**5b} Transatlantic** 
+## **5b} Transatlantic** 
 
 i think boss might suspect something they drafted the report on the lighthouse discovery over a month ago and have still not forwarded a summary to us here in the us i cant risk making enquiries through the usual channels but 
 i think we need to investigate i am disappointed that the trinity team left files in the basement when they shipped out but they did not have a lot of warning and at least they dont seem to have left anything current for harry 
@@ -64,7 +64,7 @@ been around long enough to know when something trivial is actually important on 
 keep a very low profile atleast while the boss investigation is hot so unless the system flags a real crisis we will have to dial down our activities for a while we will carry on with forecasts but will not act on them unless the 
 threat level rises to ten even then the curia will need to meet to decide whether it is wise to take action i will head to london to take charge of misdirection you can contact me at the embassy charlie
 
-**6b} Vetting Update Agatha Highfield**
+## **6b} Vetting Update Agatha Highfield**
 
 VETTING UPDATE AGATHA HIGHFIELD SUMMARY JUNE MCMXXXIII AGENT AH IS A WELL REGARDED MEMBER OF THE INTELLIGENCE COMMUNITY WITH STRONG CONNECTIONS IN THE UK AND THE USA SHE HAS WORKED 
 EXTENSIVELY WITH H ON MAJOR CASES AND HAS FULL ACCESS AT TOP SECRET AND ABOVE THIS IS A STANDARD PERIODIC REVIEW OF HER CLEARANCE AH JOINED THE ORGANISATION ONE MONTH BEFORE THE 
