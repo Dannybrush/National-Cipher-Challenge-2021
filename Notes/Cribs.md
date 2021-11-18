@@ -18,3 +18,11 @@
     ⇒ ALCHEMISTUVWXYZBDFGJKNOPQR (Original Encryption Alphabet)
     ⇒ APCQERSDGTUBFVWXYZHIJKLMNO (Reciproqual Decryption Alphabet)
 
+5A: Rail Fence Cipher, length 5 
+ 
+5B: AD Convert to Morse, Vigenere UKUSA
+ 
+6A: Transposition 5*413  -> 35412
+
+6B: Vigenere VITTENG + Reversed text
+
