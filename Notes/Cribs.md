@@ -26,3 +26,6 @@
 
 6B: Vigenere VITTENG + Reversed text
 
+7A: Polybius Square : ABCDEFGHIJKLMNOPQRSTUVWXY
+
+7B: 5 bit Binary to Decimal, Decimal to Alphanumeric, Vigenere Key:	7, 9, 18, 13, 18, 7, 2 (TRINITY)   	Length of key: 7

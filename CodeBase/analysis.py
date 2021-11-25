@@ -3,6 +3,7 @@ from operator import itemgetter
 from pprint import pprint
 import matplotlib.pyplot as plt
 
+
 def load(fn):
     # load the code
     filename = fn # "../Encrypted/Mission Intercept 5B_Transatlantic.md"
@@ -19,7 +20,8 @@ def load(fn):
     length = len(contents)
     print(length)
     f.close()
-    cleanse(contents)
+    splitstring(contents)
+    #cleanse(contents)
 
 
 def cleanse(contents):
@@ -34,14 +36,17 @@ def cleanse(contents):
             space += 1
         else:
             continue
-    print(len(cleansed))
+    Cllength = len(cleansed)
+    print(Cllength)
     print(cleansed)
     print(space)
-    print(space+len(cleansed))
-    x ={}
+    print(space+Cllength)
+    print_factors(Cllength)
+    x = {}
     x = (freq_count(contents))
     pprint(x)
     print(type(x))
+
 
 # NOTE ALL FREQ ANALYSIS DISCOUNTS NUMBERS AND punctuation
 
@@ -63,6 +68,7 @@ def plot_dict(dict):
     plt.show()
     plt.bar(range(len(dict)), freq, tick_label=letters)
     plt.show()
+
 
 def freq_count(text):
     """
@@ -88,6 +94,7 @@ def freq_count(text):
     #return sorted_by_frequency
     return frequencies
 
+
 def frq_perc(dict):
     letters = []
     freq = []
@@ -100,8 +107,6 @@ def frq_perc(dict):
     freq2 = [((float(i)/total)*100) for i in freq]
     plt.bar(letters, freq2)
     plt.show()
-
-
 
 
 def create_decryption_dictionary(plaintext_filepath, encrypted_filepath, dictionary_filepath):
@@ -126,6 +131,7 @@ def create_decryption_dictionary(plaintext_filepath, encrypted_filepath, diction
     f = open(dictionary_filepath, "w")
     json.dump(decryption_dict, f)
     f.close()
+
 
 def decrypt_file(encrypted_filepath, decrypted_filepath, dictionary_filepath):
 
@@ -162,15 +168,40 @@ def _readfile(path):
     return text
 
 
+def print_factors(num):
+    # Python Program to find the factors of a number
+
+# This function computes the factor of the argument passed
+    print("The factors of", num, "are:")
+    for i in range(1, num + 1):
+        if num % i == 0:
+            print(i)
 
 
 
+def splitstring(splitter):
+    dec = ''
+    x = splitter.split()
+    for word in x:
+        print(word)
+        dec = dec + " " + str(int2alp(Bin2Dec5Bit(word)))#dec + " " + str(int(word, 2))
+    input()
+    print(len(x))
+    print(dec)
+
+    print(len(dec.split()))
 
 
+def Bin2Dec5Bit(num):
+    return (int(num, 2))
 
+
+def int2alp(num):
+    return (chr(num+97))
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    load("../Encrypted/Mission Intercept 5B_Transatlantic.md")
-    load("../Encrypted/Mission Briefing 5A_ Derailed.md")
+    load("../Encrypted/PART B/7B_Trinity_Mission Intercept.md")
+    #load("../Encrypted/Mission Intercept 5B_Transatlantic.md")
+    #load("../Encrypted/Mission Briefing 5A_ Derailed.md")

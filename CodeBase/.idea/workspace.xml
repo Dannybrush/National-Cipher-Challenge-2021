@@ -22,7 +22,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/analysis.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Danny\FROM C\Desktop\Github\National-Cipher-Challenge-2021\CodeBase" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
