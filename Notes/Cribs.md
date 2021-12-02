@@ -29,3 +29,9 @@
 7A: Polybius Square : ABCDEFGHIJKLMNOPQRSTUVWXY
 
 7B: 5 bit Binary to Decimal, Decimal to Alphanumeric, Vigenere Key:	7, 9, 18, 13, 18, 7, 2 (TRINITY)   	Length of key: 7
+
+8A: Simple Vigenere Key Harry 
+
+8B: Polybius Square : ABCDEFGHIJKLMNOPQRSTUVWXY Transposition Key (plain to cipher):	4,2,1,6,3,5,0
+								Key (cipher to plain):	6,2,1,4,0,5,3
+								Key length: 7
