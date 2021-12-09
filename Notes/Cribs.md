@@ -35,9 +35,13 @@
 8B: Polybius Square : ABCDEFGHIJKLMNOPQRSTUVWXY Transposition Key (plain to cipher):	4,2,1,6,3,5,0
 								Key (cipher to plain):	6,2,1,4,0,5,3
 								Key length: 7
+
+
 9A: Columnar Transposition
 		Key (plain to cipher):	1,4,6,3,5,7,0,2,8
 		Key (cipher to plain):	6,0,7,3,1,4,2,5,8
 		Key length: 9
+
+
 9B: 
 	Hill Cipher[1,1,1,0]
